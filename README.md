@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishal Preetham
+# 👋 Hi, I'm Vishal
 
 🚀 Senior Data & AI Engineer | Generative AI | Backend Systems | Scalable Data Platforms
 
